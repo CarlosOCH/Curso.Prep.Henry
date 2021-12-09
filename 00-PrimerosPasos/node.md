@@ -21,4 +21,5 @@ Y si seguimos los pasos anteriores, la consola o terminal, nos devolverá la ver
 
 ![Sublime text](./img/node_version.png)
 
+listo
 
