@@ -37,3 +37,5 @@ Arriba a la derecha, si están logeados van a ver su fotito de perfil. Desde ah�
 <p> Así se ve un repositorio. Arriba a la izquierda tienen su nombre de usuario/nombre del repo.  En el centro pueden ver todos los archivos que tiene dentro el repo. El botón verde que dice “Code” es importante, si clickean ahí van a poder obtener la url del repo que van a usar para clonarlo (esto lo van a ver más adelante). Arriba a la derecha tienen tres botones. El primero de ellos Watch nos permite seguir un repositorio y con Star podemos marcar como favorito un repo que nos guste. Por último hay un botón que dice Fork, este es MUY importante! Lo van a necesitar cuando cursen el Prep y cuando hagan el Challenge!! Ya van a ver esto, por ahora ténganlo en mente. </p><br />
 
 Acá termina nuestro breve recorrido por GitHub! Éxitos! 🍀
+
+Listo!
